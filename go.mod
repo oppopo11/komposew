@@ -6,7 +6,7 @@ require (
 	github.com/compose-spec/compose-go v1.15.0
 	github.com/deckarep/golang-set v1.8.0
 	github.com/fatih/structs v1.1.0
-	github.com/fsouza/go-dockerclient v1.9.7
+	github.com/fsouza/go-dockerclient v1.9.8
 	github.com/google/go-cmp v0.5.9
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/joho/godotenv v1.5.1
@@ -25,10 +25,10 @@ require (
 
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
-	github.com/Microsoft/go-winio v0.6.0 // indirect
+	github.com/Microsoft/go-winio v0.6.1 // indirect
 	github.com/containerd/containerd v1.6.18 // indirect
 	github.com/distribution/distribution/v3 v3.0.0-20230214150026-36d8c594d7aa // indirect
-	github.com/docker/docker v23.0.3+incompatible // indirect
+	github.com/docker/docker v24.0.5+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
@@ -63,7 +63,7 @@ require (
 	golang.org/x/mod v0.11.0 // indirect
 	golang.org/x/net v0.11.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
-	golang.org/x/sys v0.9.0 // indirect
+	golang.org/x/sys v0.11.0 // indirect
 	golang.org/x/text v0.10.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
